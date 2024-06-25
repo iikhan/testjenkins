@@ -8,6 +8,7 @@ namespace Kthperm
         
         static string FindKthPerm(string number, int k)
         {
+            //ciinet
             //1234
             //12345
             //123
