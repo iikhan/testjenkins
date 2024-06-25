@@ -1,0 +1,13 @@
+/Users/izharkhan/Projects/Kthperm/Kthperm/bin/Debug/netcoreapp3.1/Kthperm.deps.json
+/Users/izharkhan/Projects/Kthperm/Kthperm/bin/Debug/netcoreapp3.1/Kthperm.runtimeconfig.json
+/Users/izharkhan/Projects/Kthperm/Kthperm/bin/Debug/netcoreapp3.1/Kthperm.runtimeconfig.dev.json
+/Users/izharkhan/Projects/Kthperm/Kthperm/bin/Debug/netcoreapp3.1/Kthperm.dll
+/Users/izharkhan/Projects/Kthperm/Kthperm/bin/Debug/netcoreapp3.1/Kthperm.pdb
+/Users/izharkhan/Projects/Kthperm/Kthperm/obj/Debug/netcoreapp3.1/Kthperm.csproj.AssemblyReference.cache
+/Users/izharkhan/Projects/Kthperm/Kthperm/obj/Debug/netcoreapp3.1/Kthperm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/izharkhan/Projects/Kthperm/Kthperm/obj/Debug/netcoreapp3.1/Kthperm.AssemblyInfoInputs.cache
+/Users/izharkhan/Projects/Kthperm/Kthperm/obj/Debug/netcoreapp3.1/Kthperm.AssemblyInfo.cs
+/Users/izharkhan/Projects/Kthperm/Kthperm/obj/Debug/netcoreapp3.1/Kthperm.csproj.CoreCompileInputs.cache
+/Users/izharkhan/Projects/Kthperm/Kthperm/obj/Debug/netcoreapp3.1/Kthperm.dll
+/Users/izharkhan/Projects/Kthperm/Kthperm/obj/Debug/netcoreapp3.1/Kthperm.pdb
+/Users/izharkhan/Projects/Kthperm/Kthperm/obj/Debug/netcoreapp3.1/Kthperm.genruntimeconfig.cache
